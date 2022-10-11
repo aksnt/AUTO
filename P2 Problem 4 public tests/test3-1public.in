@@ -1,0 +1,40 @@
+Sigma = a b c
+Q = 0 1 2 3 4
+start = 0
+F = 1 2
+0 a 4
+0 b 2
+0 c 1
+1 a 3
+1 b 1
+1 c 1
+2 a 0
+2 b 3
+2 c 4
+3 a 3
+3 b 0
+3 c 4
+4 a 3
+4 b 4
+4 c 2
+
+ccaaaababa 18014398509481984
+b 8388608
+a 64
+cb 134217728
+aaaabaacba 68719476736
+bbbcbbca 4
+cbaaccc 32768
+a 17592186044416
+c 562949953421312
+caaababc 35184372088832
+ca 549755813888
+cabac 2251799813685248
+caccaab 32768
+bcc 524288
+aabaccc 4096
+babaa 8192
+aacbbacbab 16
+bcacbab 4398046511104
+bb 4194304
+bcbacaaca 1125899906842624

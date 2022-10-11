@@ -1,0 +1,40 @@
+Sigma = a b c
+Q = 0 1 2 3 4
+start = 0
+F = 1 2
+0 a 4
+0 b 2
+0 c 1
+1 a 3
+1 b 1
+1 c 1
+2 a 0
+2 b 3
+2 c 4
+3 a 3
+3 b 0
+3 c 4
+4 a 3
+4 b 4
+4 c 2
+
+aa 2 a 1 bc 1 ab 1
+aab 10 a 8 ac 1 cca 9
+b 1 bc 9 bb 2 b 3
+ccc 10 b 2 bb 10 acb 10
+b 5 b 6 ca 1 ba 3
+b 4 bc 1 cab 4 ba 3
+cab 9 c 2 a 1 cc 7
+abb 1 aaa 1 cbb 8 cb 9
+ab 7 bc 10 cbb 4 c 1
+bcb 5 ca 2 abb 2 cac 2
+b 5 b 4 b 4 bb 9
+bc 10 c 6 b 1 ba 9
+b 4 b 3 c 3 aab 9
+ac 6 acc 2 c 3 bbb 1
+ca 7 acb 2 b 8 baa 6
+cbc 10 bac 1 bcc 9 a 4
+a 2 bca 6 bcc 10 ccc 6
+ac 7 ba 1 abb 10 bcc 2
+aba 6 b 6 cc 1 aba 2
+ac 5 bb 7 cca 6 cb 6
